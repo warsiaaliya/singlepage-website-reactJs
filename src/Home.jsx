@@ -80,7 +80,7 @@ const Home =()=>{
         </section>
 
 
-        <hr/>
+        
 
         <section className="section section-left" >
    
